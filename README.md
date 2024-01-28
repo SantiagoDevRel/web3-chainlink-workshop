@@ -1,8 +1,6 @@
 # web3-chainlink-workshop
 
-## Outline
-
-## Basic intro to ethereum/blockchain (Santiago?)
+### Basic intro to ethereum/blockchain (Santiago?)
 
 - private keys and wallets (creating wallet using metamask)
 - u can do only 2 things with a blockchain, read or write data
@@ -34,7 +32,7 @@
 - npx create-react-app
 - create a simple front end (simple one, no design/fancy things) with 2 things:
   - input text to set the message (write data to the blockchain)
-  - button to `update msg` and a <h2> to print the `msg` (retrieve data from the blockchain)
+  - button to `update msg` and a `<h2>` to print the `msg` (retrieve data from the blockchain)
 
 ### Chainlink (David)
 
