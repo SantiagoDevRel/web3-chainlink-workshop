@@ -27,7 +27,7 @@
 - deploy the contract to mumbai testnet with web3js
 - interact with the contract using scripts/web3js
 
-### dApp
+### Building a dApp to set messages (Santiago)
 
 - npx create-react-app
 - create a simple front end (simple one, no design/fancy things) with 2 things:
